@@ -1,0 +1,8 @@
+name: "wq_data_dashboard"
+output_dir: "."
+navbar:
+  title: "MMDS 2020 WQ Data"
+  left:
+    - text: "Home"
+      href: index.html
+
